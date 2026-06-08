@@ -217,5 +217,5 @@ MIT — free to use, fork, and build on. Attribution appreciated but not require
 <p align="center">
   Built by developers, for developers. ⭐ Star this repo if a skill saved you time.
   <br/>
-  <a href="https://github.com/jsrockstaranks/claude-skills/stargazers">Star it →</a>
+  <a href="https://github.com/jsrockstaranks/claude-skills/stargazers" target="_blank">Star it →</a>
 </p>
